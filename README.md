@@ -1,4 +1,27 @@
+<h3 align="center">
+  <samp>&gt; Hi, I'm <b><a href="https://matheus-bomtempo.vercel.app" target="_blank">Matheus Bomtempo</a></b></samp>
+</h3>
+
 <p align="center">
+  <samp>Frontend Developer @ PRODEMGE · B.Sc. in Computer Science · MG, Brazil</samp>
+</p>
+
+<p align="center">
+  <a href="https://matheus-bomtempo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-bomtempo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:matheusbarbacena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
@@ -32,7 +55,15 @@
   <img src="https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
 
-  <!-- Other -->
+  <!-- Web / Version Control -->
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
+
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusBomtempo&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBomtempo&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb" height="150"/>
 </p>
